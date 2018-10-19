@@ -5,6 +5,7 @@ Removed MiniDock for the time being. May be added back in at a later time.
 Change Log:
 
 -Removed MiniDock
+
 -Added MicroDock by steedcrugeon
 -Added NanoDock by steedcrugeon
 
