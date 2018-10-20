@@ -1,4 +1,4 @@
-# SpaceDockEnhanced(WIP) KSP 1.5.0
+# SpaceDockReImagined(WIP) KSP 1.5.0
 
 Original Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/150589-12-spacedock/
 
