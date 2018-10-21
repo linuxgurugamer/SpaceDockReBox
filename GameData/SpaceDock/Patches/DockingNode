@@ -1,0 +1,16 @@
+@PART[sssyeSpaceDockS*,sssyeSpaceDockM*]
+{
+  MODULE
+  {
+    name = ModuleDockingNode
+    referenceAttachNode = bottom
+    nodeType = size2
+    undockEjectionForce = 0.25
+    minDistanceToReEngage = 3.5
+    acquireForce = 3.5
+    acquireTorque = 3.5
+    acquireRange = 3.0
+    captureRange = 1.5
+    snapRotation = false
+    }
+}
