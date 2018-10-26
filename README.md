@@ -12,6 +12,7 @@ Change Log:
 -Removed ShipYard Module from all parts
 
 Original Changes:
+
 -Removed MiniDock
 
 -Added MicroDock by steedcrugeon
