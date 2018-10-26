@@ -9,6 +9,7 @@ Removed MiniDock for the time being. May be added back in at a later time.
 
 Change Log:
 10/26/18
+
 -Removed ShipYard Module from all parts
 
 Original Changes:
