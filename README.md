@@ -18,7 +18,7 @@ Also..I appologize, but Im not very good at versioning..The seperate branch opti
 
 10/26/18
 
--Added Impassable Nodes to CLS Module(Small,Medium,Large Docks)
+-Added Impassable Nodes to CLS Modules
 
 -Added DockingNode Patch(2.5m sized dock cores ONLY)
 
