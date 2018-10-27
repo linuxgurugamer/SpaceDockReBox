@@ -33,11 +33,11 @@ Also..I appologize, but Im not very good at versioning..The seperate branch opti
 -Added MicroDock by steedcrugeon
 -Added NanoDock by steedcrugeon
 
-Updated ConnectedLivingSpace Module
+-Updated ConnectedLivingSpace Module
 
-Updated KIS Module
+-Updated KIS Module
 
-Updated EPL LaunchPad Module
+-Updated EPL LaunchPad Module
 
 
 **INSTALL INSTRUCTIONS:
