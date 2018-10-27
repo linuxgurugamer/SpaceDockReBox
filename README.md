@@ -16,7 +16,11 @@ This ReBox can be Installed on top of the Original SpacedockRedeployed Mod. All 
 
 10/26/18
 
+-Added DockingNode Patch
+
 -Removed ShipYard Module from all parts
+
+-Disabled IndicatorLights patch //Its purpose was for the MiniDock and a part that does not exist in this mod
 
 **Original Changes:
 
