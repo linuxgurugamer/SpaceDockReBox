@@ -16,7 +16,7 @@ This ReBox can be Installed on top of the Original SpacedockRedeployed Mod. All 
 
 10/26/18
 
--Added DockingNode Patch
+-Added DockingNode Patch(2.5m sized dock cores ONLY)
 
 -Removed ShipYard Module from all parts
 
