@@ -11,8 +11,7 @@ This ReBox can be Installed on top of the Original SpacedockRedeployed Mod. All 
 *This version does NOT contain the MiniDock as of writing this! No changes has been made to that part yet.*
 
 *If you do not want the MiniDock: Delete/Uninstall SpaceDockRedeployed via Ckan or manually before installing this derivitive.*
-
-Also..I appologize, but Im not very good at versioning..The seperate branch option confuses me so my commits go straight to the master for testing currently. Keep a close eye on the changelog as I update that regularly when I change things(date of change included)
+Keep a close eye on the changelog as I update that regularly when I change things(date of change included)
 
 **Change Log:
 
