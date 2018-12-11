@@ -15,7 +15,7 @@ Keep a close eye on the changelog as I update that regularly when I change thing
 
 **Change Log:
 
-12/10/18
+**12/10/18
 
 -Changed mass of Micro and Mini Dock
 
@@ -27,7 +27,7 @@ Nano 8t -> 2.25t
 
 1000L -> 500L
 
-10/26/18
+**10/26/18
 
 -Added Impassable Nodes to CLS Modules
 
