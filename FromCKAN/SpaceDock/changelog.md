@@ -51,10 +51,3 @@
    * Fixed Wrong description text for a technode
    * Mod Support KIS (KISPickup)
    * Reduced entry costs
-
-0.3.0
-	Adoption by Linuxgurugamer
-	Reformatted all files
-	Fixed bad characters
-	Merged @Denko666's changes with the original
-

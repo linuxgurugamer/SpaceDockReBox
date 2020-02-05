@@ -1,12 +1,11 @@
-# SpaceDockReBox(WIP) KSP 1.5.1
+# SpaceDockReDocked(WIP) KSP 1.5.1
 
 Original Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/150589-12-spacedock/
 
 Original Development Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/152337-spacedock-development/
 
-I have not done any major changes to this mod, I've simply updated the .cfg files with more up-to-date Modules as well as possible tweaking to my personal tastes. See the ChangeLog for details. Please Remember this is WIP
 
-This ReBox can be Installed on top of the Original SpacedockRedeployed Mod. All I am providing is updated cfgs, extra patches and parts I've found on the forums that is not/should be included in the original file structure(in my opinion). Otherwise everything is same ol same ol.
+This Release is the Rebox version merged with the Original Spacedock Redeployed Mod. This includes updated cfgs, extra patches and parts I've found on the forums.
 
 *This version does NOT contain the MiniDock as of writing this! No changes has been made to that part yet.*
 
