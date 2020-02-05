@@ -30,7 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:SpaceDockRedocked.version,GameData/SpaceDockRedocked
 
-9:Extras
 
 #
 # End of file
