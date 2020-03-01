@@ -62,3 +62,5 @@
 	Thanks to @Tonka Crash for this:
 		Added ":NEEDS[ConnectedLIvingSpace]" to the CLS module def in each of the parts
 
+0.3.0.2
+	Renamed repo back to SpaceDockReBoxed

@@ -1,0 +1,21 @@
+{
+  "NAME": "SpacedockReBoxed",
+  "URL": "http://ksp.spacetux.net/avc/SpacedockReBoxed",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/SpacedockReBoxed/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "SpacedockReBoxed"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 3,
+    "PATCH": 0,
+    "BUILD": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0
+  }
+}
+

@@ -24,11 +24,12 @@
 # 0:1.3
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:SpaceDockRedocked, SpaceDockRedocked.version, SpaceDockRedocked
+1:SpaceDockReBoxed, SpaceDockReBoxed.version, SpaceDockReBoxed
 
 
 # 3:SOURCEFILE, DESTDIR
-3:SpaceDockRedocked.version,GameData/SpaceDockRedocked
+3:SpaceDockReBoxed.version,GameData/SpaceDockReBoxed
+3:License.md,GameData/SpaceDockReBoxed
 
 
 #
