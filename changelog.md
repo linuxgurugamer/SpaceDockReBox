@@ -58,3 +58,7 @@
 	Fixed bad characters
 	Merged @Denko666's changes with the original
 
+0.3.0.1
+	Thanks to @Tonka Crash for this:
+		Added ":NEEDS[ConnectedLIvingSpace]" to the CLS module def in each of the parts
+
