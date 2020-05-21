@@ -64,3 +64,6 @@
 
 0.3.0.2
 	Renamed repo back to SpaceDockReBoxed
+    
+0.3.0.3
+    Fixed URL in .version file
